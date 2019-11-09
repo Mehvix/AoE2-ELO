@@ -1,0 +1,182 @@
+[
+    {
+        "Player A": {
+            "Name": "max",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "david",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "max",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "david",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test1",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test1",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test1",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test1",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test1",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test1",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test1",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test1",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test1",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test3",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test3",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test4",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test4",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test4",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test4",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    },
+    {
+        "Player A": {
+            "Name": "test1",
+            "Outcome": 1
+        },
+        "Player B": {
+            "Name": "test2",
+            "Outcome": 0
+        }
+    }
+]
